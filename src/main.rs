@@ -4,7 +4,7 @@ use std::error::Error;
 use std::fs::File;
 use native_dialog::{MessageDialog, MessageType};
 
-const CSV_FILE_PATH: &str = r"C:\Users\jrotter\Desktop\geburtstage.csv";
+const CSV_FILE_PATH: &str = r"C:\Users\XXXXX\Desktop\geburtstage.csv";
 const DAYS_IN_ADVANCE: i64 = 30;
 const DAYS_IN_PAST: i64 = 5;
 
