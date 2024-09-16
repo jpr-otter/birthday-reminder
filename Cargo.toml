@@ -1,0 +1,9 @@
+[package]
+name = "birthday_reminder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+csv = "1.1"
+native-dialog = "0.6"
